@@ -1,5 +1,5 @@
 # Hi... I'm Praful 👋
-
+![](robot.gif)
 I am a dedicated and enthusiastic towards Full Stack Developer, currently pursuing a Bachelor of Computer Applications (BCA). 
 As a fresher, I bring a fresh perspective and a solid foundation in  Web development. Through various projects , I have developed proficiency in languages such as JavaScript and Css, and framework like Bootstrap.
 My passion for coding, combined with a keen eye for detail and a problem-solving mindset, equips me to tackle complex development challenges. I am eager to contribute to innovative projects and am committed to continuous learning and growth in the dynamic field of web development.
@@ -27,13 +27,20 @@ My passion for coding, combined with a keen eye for detail and a problem-solving
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 
-
 ## GitHub Stats
 
 ![Praful Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praful-Daksh&show_icons=true&theme=dark&count_private=true)
+
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praful-Daksh&layout=compact&theme=dark)
 
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praful-Daksh&theme=dark)
 
-(http://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f)
+
+
+
+
+![](red.gif)
