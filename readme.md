@@ -17,6 +17,7 @@ My passion for coding, combined with a keen eye for detail and a problem-solving
 4. [Postal Code Info](https://praful-daksh.github.io/PostalCode)
 5. [Quiz Web App](https://praful-daksh.github.io/QuizMaster)
 6. [Typing Test](https://praful-daksh.github.io/Typing-Test)
+7. [Ai Image Generator](https://praful-daksh.github.io/ImageAi)
 
 
 
