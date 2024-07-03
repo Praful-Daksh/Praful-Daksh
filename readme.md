@@ -18,7 +18,7 @@ My passion for coding, combined with a keen eye for detail and a problem-solving
 5. [Quiz Web App](https://praful-daksh.github.io/QuizMaster)
 6. [Typing Test](https://praful-daksh.github.io/Typing-Test)
 7. [Ai Image Generator](https://praful-daksh.github.io/ImageAi)
-8. [Functional E-commerce Web](https://praful-daksh.github.io/StyleEdg)[OnGoing]
+8. [Functional E-commerce Web](https://praful-daksh.github.io/StyleEdg)
 
 
 
