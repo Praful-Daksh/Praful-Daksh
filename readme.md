@@ -11,7 +11,7 @@ My passion for coding, combined with a keen eye for detail and a problem-solving
 
 ## 🧑‍💻 My Recent Projects
 
-1. [Event Managment](https://github.com/Praful-Daksh/eManagment)
+1. [Event Managment](https://show-time-six.vercel.app)
 2. [Tic Tac Toe](https://praful-daksh.github.io/Tic-Tac-Toe)
 3. [Book List](https://praful-daksh.github.io/Book-List)
 4. [Qr Code Generator](https://praful-daksh.github.io/generateQr)
