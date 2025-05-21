@@ -1,8 +1,6 @@
 # Hi... I'm Praful 👋
 ![](robot.gif)
-I am a dedicated and enthusiastic towards Full Stack Developer, currently pursuing a Bachelor of Computer Applications (BCA). 
-As a fresher, I bring a fresh perspective and a solid foundation in  Web development. Through various projects , I have developed proficiency in languages such as JavaScript and Css, and framework like Bootstrap.
-My passion for coding, combined with a keen eye for detail and a problem-solving mindset, equips me to tackle complex development challenges. I am eager to contribute to innovative projects and am committed to continuous learning and growth in the dynamic field of web development.
+I'm a BCA student with a strong interest in web development and a love for building things that work well and look great. I’ve worked on personal projects using both frontend and backend technologies, and I'm always excited to learn more. I'm looking for a web development opportunity where I can grow my skills, contribute to real projects, and be part of a creative, collaborative team.
 
 - Open to project collaborations
 - You can reach me through:
