@@ -5,7 +5,7 @@ I'm a BCA student with a strong interest in web development and a love for build
 - Open to project collaborations
 - You can reach me through:
   - [Gmail](mailto:prafuldaksh@gmail.com)
-  - [LinkedIn](https://www.linkedin.com/in/praful-daksh-30868b2b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  - [LinkedIn](https://www.linkedin.com/in/praful-daksh-30868b2b6)
 
 ## 🧑‍💻 My Recent Projects
 
