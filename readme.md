@@ -1,11 +1,16 @@
 # Hi... I'm Praful 👋
-![](robot.gif)
+  
 I'm a BCA student with a strong interest in web development and a love for building things that work well and look great. I’ve worked on personal projects using both frontend and backend technologies, and I'm always excited to learn more. I'm looking for a web development opportunity where I can grow my skills, contribute to real projects, and be part of a creative, collaborative team.
 
 - Open to project collaborations
 - You can reach me through:
   - [Gmail](mailto:prafuldaksh@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/praful-daksh-30868b2b6)
+
+
+## 🏆 Github Profile Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=Praful-Daksh&theme=gruvbox&title=Commits,Repositories,Followers,Stars,Issues)
 
 ## 🧑‍💻 My Recent Projects
 
@@ -21,9 +26,6 @@ I'm a BCA student with a strong interest in web development and a love for build
 
 
 
-
-
-
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -32,7 +34,9 @@ I'm a BCA student with a strong interest in web development and a love for build
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
+![ReactJS](https://img.shields.io/badge/-reactjs-blue?style=flat&logo=react&logoColor=white)
+![MongoDb](https://img.shields.io/badge/-mongoDb-green?style=flat&logo=mongodb&logoColor=white)
+![Express-Js](https://img.shields.io/badge/-expressJs-darkgreen?style=flat&logo=express&logoColor=white)
 
 
 ## GitHub Stats
